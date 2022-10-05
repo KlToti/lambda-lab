@@ -1,1 +1,1 @@
-# lambda-lab
+# First example of Lambda function
